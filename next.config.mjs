@@ -2,6 +2,7 @@
 const nextConfig = {
   reactStrictMode: true,
   output: "export",
+  distDir: "out",
 
   /**
    * Set base path. This is the slug of your GitHub repository.
